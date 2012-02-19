@@ -1,12 +1,9 @@
 San Jose -> San Francisco
 San Jose -> Anchorage
-
 New York -> Anchorage
 New York -> San Jose
 New York -> San Francisco
-
-
-
+New York -> Honolulu
 Anchorage -> New York
 Anchorage -> San Jose
 Honolulu -> New York
